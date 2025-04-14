@@ -44,7 +44,7 @@ Folder Structure
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-project-repo.git
+   git clone https://github.com/Ayaa1xn/your-project-repo.git
    cd your-project-repo
    ```
 
