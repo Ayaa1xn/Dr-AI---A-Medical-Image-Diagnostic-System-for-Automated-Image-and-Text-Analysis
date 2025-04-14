@@ -8,7 +8,7 @@ processing medical documents and diagnostic data efficiently and accurately.
 
 -----------------------------------------------------------------------------------------------------------
 Files to Add
-- ChatGPTApi.py: Handles API communication with ChatGPT.
+- ChatGPTApi.py: Handles API communication with ChatGPT .
 - .gitignore`**: To ignore unnecessary files like model weights, venv, etc.
 - requirements.txt`**: List all dependencies. 
 
